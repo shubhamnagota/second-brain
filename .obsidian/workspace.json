@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "a16f0bb49d2f728c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d66485c23908e0bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d99e17ee3106f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learnings/Web 3.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8593070498076c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learnings/Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5683c613991fa1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learnings/Web2 to Web3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c034ef44725cebef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "backend/Nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3928614e785ecc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac8231cce3427ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c8648af67dd0205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9818b74667b5948f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45ac9577148d4001",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f253333d4c4f82f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cab17c7ec7f72885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e00f911d554f2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "backend/Nodejs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e73a301a3568c8fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "backend/Nodejs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d90c5a5073fb4ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ea53cd4c7b55290",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "backend/Nodejs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c034ef44725cebef",
+  "lastOpenFiles": [
+    "backend/Nodejs.md",
+    "backend/Pasted image 20230323020914.png",
+    "backend/Pasted image 20230323020732.png",
+    "learnings/Web2 to Web3.md",
+    "Untitled.md",
+    "learnings/Blockchain.md",
+    "learnings/Web 3.0.md"
+  ]
+}
