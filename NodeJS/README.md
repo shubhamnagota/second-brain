@@ -78,7 +78,7 @@ Node.js® is an open-source, cross-platform JavaScript runtime environment.
 		- C++ features for low level programming
 	- lib
 		- Javascript code to access C++ features
-	- ![[Pasted image 20230323021651.png]]
+	- ![Pasted image 20230323021651.png]
 - No access to browser APIs
 ## REPL
 - Read, Evaluate, Print, Loop
