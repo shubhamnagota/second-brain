@@ -189,15 +189,16 @@ Node.js® is an open-source, cross-platform JavaScript runtime environment.
 - Eg. youtube videos comes in chunks, file transfers
 - Chunks are processed and then this process repeats
 ## Buffers
-- YET TO READ
-- https://www.youtube.com/watch?v=br8VB99qPzE&list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY&index=24
-
+- Scenario: 100 people are in a line, Guideline: At least 10 is required to start a batch and max 30
+- The batches are processed in 30, but if only 1 person is there, they might have to wait for 10P.
+- **Buffer** is the place, where they are going to wait.
+- Youtube stream, ask the data very fast and that will be given in buffer and sent to user.
 ## Asyncronous Javascript
 - JS is syncronous, blocking, single threaded language
 - Web browsers and Node.js define functions and APIs that allows us to register functions that should execute async when some event occurs.
 - Eg. passage of time (setTimeout or setInterval)
 - Eg. Mouse click event listeners 
-- Eg. data read from systems
+- Eg. data read from file systems
 - Eg. Arrival of data from network (callback, promises, async await)
 - which allows us to run other code without waiting
 ## Streams
@@ -294,7 +295,21 @@ Node.js® is an open-source, cross-platform JavaScript runtime environment.
 ## Worker Threads
 ## Expressjs
 ## Jest or Vitest
-## Typescript
 
+## Callback vs Promises vs Async Await
+- Callback - A function is called when a async function is completed.
+- Promises
+	- A Promise is an object that represents the eventual completion (or failure) of an asynchronous operation.
+	- It assures that something will be done, *PENDING*, resolved *FULLFILLED*, rejected *REJECTED*"
+- Async Await
+	- It is just a wrapper to restyle code and make promises easier to read and use.
+	- Async/Await allows you to write asynchronous code that looks and behaves like synchronous code
 
+## Callback Hell
+- Callback hell is a term used to describe a situation in which multiple nested callbacks are used to handle asynchronous operations.
+- This can make code difficult to read and maintain, and can lead to errors and bugs.
+- To avoid callback hell, several approaches can be taken:
+	- Modularize code
+	- Promises
+	- Async Await
 
